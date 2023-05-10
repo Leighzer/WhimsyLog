@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhimsyLog", "WhimsyLog\WhimsyLog.csproj", "{FFE4D158-4CD2-49EF-B91A-FC5930D7BE63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhimsyLog.Example", "WhimsyLog.Example\WhimsyLog.Example.csproj", "{2183A2B6-BB7C-4AC9-A14E-3FA7A66CA7A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE4D158-4CD2-49EF-B91A-FC5930D7BE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE4D158-4CD2-49EF-B91A-FC5930D7BE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE4D158-4CD2-49EF-B91A-FC5930D7BE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE4D158-4CD2-49EF-B91A-FC5930D7BE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2183A2B6-BB7C-4AC9-A14E-3FA7A66CA7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2183A2B6-BB7C-4AC9-A14E-3FA7A66CA7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2183A2B6-BB7C-4AC9-A14E-3FA7A66CA7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2183A2B6-BB7C-4AC9-A14E-3FA7A66CA7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC8B2851-7D57-4D72-8354-91B660768D97}
+	EndGlobalSection
+EndGlobal
